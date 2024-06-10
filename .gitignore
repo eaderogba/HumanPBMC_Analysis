@@ -1,0 +1,13 @@
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.csv
+*.tsv
+*.mtx
+*.h5
+*.gz
+*.cloupe
+*.html
+*.json
+*.h5ad
